@@ -1,5 +1,5 @@
-<H3> Name : HARITHA SHREE</H3>
-<H3>Register No: 212222230046</H3>
+<H3> Name : MOULIDHAR YADAV</H3>
+<H3>Register No: 212223240042</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:21/03/2025</H3>
 
